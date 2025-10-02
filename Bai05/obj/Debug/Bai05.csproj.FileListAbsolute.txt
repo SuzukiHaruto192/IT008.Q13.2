@@ -1,0 +1,8 @@
+G:\TaiLieuLapTrinh\LapTrinhTrucQuan\Code\BTH1_NguyenTranLeTam_24521568\Bai05\bin\Debug\Bai05.exe.config
+G:\TaiLieuLapTrinh\LapTrinhTrucQuan\Code\BTH1_NguyenTranLeTam_24521568\Bai05\bin\Debug\Bai05.exe
+G:\TaiLieuLapTrinh\LapTrinhTrucQuan\Code\BTH1_NguyenTranLeTam_24521568\Bai05\bin\Debug\Bai05.pdb
+G:\TaiLieuLapTrinh\LapTrinhTrucQuan\Code\BTH1_NguyenTranLeTam_24521568\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+G:\TaiLieuLapTrinh\LapTrinhTrucQuan\Code\BTH1_NguyenTranLeTam_24521568\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+G:\TaiLieuLapTrinh\LapTrinhTrucQuan\Code\BTH1_NguyenTranLeTam_24521568\Bai05\obj\Debug\Bai05.exe
+G:\TaiLieuLapTrinh\LapTrinhTrucQuan\Code\BTH1_NguyenTranLeTam_24521568\Bai05\obj\Debug\Bai05.pdb
+G:\TaiLieuLapTrinh\LapTrinhTrucQuan\Code\BTH1_NguyenTranLeTam_24521568\Bai05\obj\Debug\Bai05.exe.config
